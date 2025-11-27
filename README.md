@@ -39,4 +39,4 @@ Goal: Help users compare and analyze countries’ economic performance visually.
 
 📄 Resume
 You can view and download my resume here:
-👉 
+👉 Manthan Resume.pdf
