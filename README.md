@@ -39,4 +39,4 @@ Goal: Help users compare and analyze countries’ economic performance visually.
 
 📄 Resume
 You can view and download my resume here:
-👉 Manthan Resume.pdf
+👉 [Manthan Resume.pdf](https://github.com/hiimanthan/hiimanthan.github.io/blob/2077c8bef3e3e6f49ac5133434d4236784ebf9f4/Manthan%20Resume.pdf)
