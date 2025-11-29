@@ -41,6 +41,8 @@
       height: 90px;
       border-radius: 12px;
       background: #e2e2e2;
+      background-size: cover;
+      background-position: center;
     }
 
     h1 {
@@ -102,9 +104,7 @@
     </p>
 
     <!-- RESUME DOWNLOAD -->
-    <a class="button"
-      href="Manthan_Patel_Resume.pdf?utm_source=portfolio&utm_medium=resume_button&utm_campaign=resume_download"
-      target="_blank">
+    <a class="button" href="Manthan_Patel_Resume.pdf?utm_source=portfolio&utm_medium=resume_button&utm_campaign=resume_download" target="_blank" rel="noopener">
       Download Resume
     </a>
 
@@ -114,8 +114,7 @@
     <div class="card">
       <h3>Solar Dynamic Dashboard</h3>
       <p>Power BI dashboard analyzing solar energy performance and trends.</p>
-      <a target="_blank"
-        href="Solar%20Dashboard/?utm_source=portfolio&utm_medium=project&utm_campaign=solar_dashboard">
+      <a target="_blank" rel="noopener" href="Solar%20Dashboard/?utm_source=portfolio&utm_medium=project&utm_campaign=solar_dashboard">
         Open Folder
       </a>
     </div>
@@ -123,8 +122,7 @@
     <div class="card">
       <h3>Traffic Management Analysis</h3>
       <p>Data-driven study of congestion, accidents, and AQI impact.</p>
-      <a target="_blank"
-        href="Traffic%20Management/?utm_source=portfolio&utm_medium=project&utm_campaign=traffic_management">
+      <a target="_blank" rel="noopener" href="Traffic%20Management/?utm_source=portfolio&utm_medium=project&utm_campaign=traffic_management">
         Open Folder
       </a>
     </div>
@@ -132,8 +130,7 @@
     <div class="card">
       <h3>World Economy Analysis</h3>
       <p>Economic insights on GDP, inflation, and unemployment trends.</p>
-      <a target="_blank"
-        href="World%20Economy/?utm_source=portfolio&utm_medium=project&utm_campaign=world_economy">
+      <a target="_blank" rel="noopener" href="World%20Economy/?utm_source=portfolio&utm_medium=project&utm_campaign=world_economy">
         Open Folder
       </a>
     </div>
@@ -146,3 +143,4 @@
 </body>
 
 </html>
+
